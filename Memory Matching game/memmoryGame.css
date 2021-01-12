@@ -1,0 +1,68 @@
+html {
+  background: url("images/underwater.jpg") no-repeat center center fixed;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.board {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+.card {
+  width: 80px;
+  height: 80px;
+}
+
+.card.flip {
+  transform: rotateY(180deg);
+}
+
+.button {
+  background-color: #a31919;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#cmdNewGame {
+  background-color: white;
+  color: black;
+  border: 2px solid #193b68;
+}
+
+#header {
+  background-color: #a31919;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+  background-color: white;
+  color: black;
+  border: 2px solid #193b68;
+}
+
+.counters{
+	color: rgb(0, 0, 0);
+}
