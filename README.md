@@ -8,7 +8,7 @@ The object of the game is to discover all matching pairs.
 When opening the html file the cards will be automatically shuffled.
 You can also start a new game on pressing the new game button it's also shuffl the cards.
 
-<img align="center" src="https://gph.is/g/E1XQnbr" width="420">
+<img align="center" src="https://media.giphy.com/media/FDf0BYuRuYznu3pOyW/giphy.gif" width="420">
 
 <h3>Playing Memory</h3>
 The player chooses a card and turns it over by pressing.
@@ -20,7 +20,7 @@ Whene the palyer flip two cards it's call "Move", every time the player make a m
 
 Whene the palyer make a match the app count the matches hi did (untill the palyer press new game or winning).
 
-<img align="center" src="https://gph.is/g/E3LKnNN" width="420">
+<img align="center" src="https://media.giphy.com/media/OJNqoecRO4gIA6Q3Xq/giphy.gif" width="420">
 
 
 
